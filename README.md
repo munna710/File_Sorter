@@ -7,11 +7,11 @@ To use this script, you will need to have Python installed on your computer. You
 
 Usage
 Download or clone this repository to your local machine.
-Open the file_sorter.py file in a text editor.
+Open the automatic_file_sorter.ipynb file in a text editor.
 Edit the file_types dictionary to add or remove file types and their corresponding directories.
 Edit the source_dir and destination_dir variables to specify the source and destination directories for the files you want to sort.
-Save the file_sorter.py file.
-Open a terminal or command prompt and navigate to the directory containing file_sorter.py.
+Save the automatic_file_sorter.ipynb file.
+Open a terminal or command prompt and navigate to the directory containing automatic_file_sorter.ipynb.
 Run the script by entering python file_sorter.py in the terminal or command prompt.
 Contributing
 If you find any bugs or have suggestions for improvement, please feel free to open an issue or submit a pull request on GitHub.
